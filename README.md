@@ -75,7 +75,7 @@ The `data_ingestion.py` script reads and splits the data into training and testi
 2. Fill out the form with the required details.
 3. Submit the form to predict the math score.
 
- ![Screenshot of Web Application](img\screenshot_webpage.png)
+ ![Screenshot of Web Application](img/screenshot_webpage.png?raw=true "Optional Title")
 
 ## Technologies Used
 
